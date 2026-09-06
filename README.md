@@ -2,6 +2,12 @@
 
 Prebuilt native RPM packages for **Krokiet** (the official Slint-based GUI frontend replacing Czkawka GTK) targeted for Fedora Linux.
 
+> **Upstream Project & Attribution:**  
+> This repository provides community-built native RPM packages.  
+> * **Original Software:** [Czkawka & Krokiet on GitHub](https://github.com/qarmin/czkawka)  
+> * **Original Author & Maintainer:** [Rafał Mikrut (qarmin)](https://github.com/qarmin)  
+> * **Czkawka Core / Crates:** [crates.io/crates/krokiet](https://crates.io/crates/krokiet)
+
 ---
 
 ## What is Krokiet?
